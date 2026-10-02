@@ -1,3 +1,12 @@
+/*
+
+IMPORTANT!
+ Once the full design of the game is ready,
+  the decorative elements such as images and color combinations need to be
+ implemented, and a better description of the game needs to be added.
+*/
+
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -5,41 +14,130 @@
 }
 
 body {
-    width: 100vw;
-    height: 100vh;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    min-height: 100vh;
     background-color: #1b1b1b;
     color: #e0e0e0;
     line-height: 1.6;
+    overflow-x: hidden;
 }
 
-.hero-header{
-    width: 100%;
-    height: 350px;
-    position: relative;
-    background-color: #0000;
-}
-.slider-container{
-    position: relative;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-}
-.game-title{
-    font-size: 2.5rem;
-    color:white;
-    margin-bottom: 5px;
-}
-.container{
+.container {
     max-width: 1100px;
-    margin: auto;
+    margin:  auto;
     padding: 20px;
 }
 
-.content-grid{
+.hero-header {
+    width: 100%;
+    height: 350px;
+    position: relative;
+    background-color: #000000;
+}
+
+.slider-container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.game-details {
+    background-color: #282828;
+    padding: 20px 0 0 0;
+    border-bottom: 2px solid #2b2a2a;
+}
+
+.game-title {
+    font-size: 2.5rem;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.developer-name {
+    color: #aaa8a8;
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.developer-name>span {
+    color: #32cc7c;
+    font-weight: bold;
+}
+
+.game-nav {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.nav-btn {
+    color: #c9c2c2;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-bottom: 3px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.nav-btn:hover,.nav-btn.active {
+    color: white;
+    border-bottom-color: #24c773;
+}
+
+.content-grid {
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 30px;
     margin-top: 30px;
     margin-bottom: 50px;
+}
+
+.description-section {
+    background-color: #2e2d2d;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.description-section>h2 {
+    margin-bottom: 15px;
+    color: white;
+}
+
+.download-card {
+    background-color: #282828;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #3a3a3a;
+    text-align: center;
+}
+
+.download-card h3 {
+    color: white;
+    margin-bottom: 5px;
+}
+
+.download-card p {
+    color: #888888;
+    font-size: 0.9rem;
+    margin-bottom: 15px;
+}
+
+.download-btn {
+    align-items: center;
+    justify-content: center;
+    background-color: #2fbe74;
+    color: white;
+    text-decoration: none;
+    padding: 12px 24px;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 5px;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.download-btn:hover {
+    background-color: #259b5e;
 }
