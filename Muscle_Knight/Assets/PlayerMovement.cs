@@ -2,38 +2,33 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
-
 public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody2D rb;
-
     [Header("Movement")]
     public float moveSeed = 5f;
     float horizontalMovement;
 
-    [Header("Jumping")]
+
+    [Header("jumping")]
     public float jumpPower = 10f;
 
-    [Header("Ground Check")]
+    [Header("GrundCheck")]
     public Transform grundChekPos;
-    public Vector2 grundChekSize = new Vector2(0.5f, 0.5f);
+    public Vector2 grundChekSize = new Vector2(0.5f,0.5f);
     public LayerMask grundLayer;
 
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        // Ha nem húztad be manuálisan az rb-t, automatikusan megpróbálja megkeresni a karakteren
-        if (rb == null)
-        {
-            rb = GetComponent<Rigidbody2D>();
-        }
+        
     }
 
+    // Update is called once per frame
     void Update()
     {
-        if (rb != null)
-        {
-            rb.linearVelocity = new Vector2(horizontalMovement * moveSeed, rb.linearVelocity.y);
-        }
+        rb.linearVelocity = new Vector2(horizontalMovement * moveSeed, rb.linearVelocity.y);
     }
 
     public void Move(InputAction.CallbackContext context)
@@ -41,34 +36,38 @@ public class PlayerMovement : MonoBehaviour
         horizontalMovement = context.ReadValue<Vector2>().x;
     }
 
-    public void Jump(InputAction.CallbackContext context)
-    {
-        // Gomb megnyomásakor ugrás (csak ha a talajon áll)
-        if (context.performed && isGrunded())
+    public void Jump(InputAction.CallbackContext context) {
+        if (isGrunded())
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+
+
+            if (context.performed)
+            {
+                // Teljes ugrás indítása az ugrás gomb megnyomásakor
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+            }
+            else if (context.performed)
+            {
+                //Változó magasságú ugrás: ha korábban elengedjük a gombot, csökkentjük a felfelé ívelõ sebességet
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+
+            }
         }
 
-        // Gomb elengedésekor az ugrási magasság csökkentése (akkor is mûködik, ha már levegõben van)
-        if (context.canceled && rb.linearVelocity.y > 0)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
-        }
     }
 
     private bool isGrunded()
     {
-        if (grundChekPos == null) return false;
-
-        return Physics2D.OverlapBox(grundChekPos.position, grundChekSize, 0, grundLayer);
+        if (Physics2D.OverlapBox(grundChekPos.position, grundChekSize, 0, grundLayer))
+        {
+            return true;
+        }
+        return false;
     }
 
     public void OnDrawGizmosSelected()
     {
-        if (grundChekPos != null)
-        {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireCube(grundChekPos.position, grundChekSize);
-        }
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireCube(grundChekPos.position, grundChekSize);
     }
 }
