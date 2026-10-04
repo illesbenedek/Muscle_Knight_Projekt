@@ -46,7 +46,7 @@ public class PlayerMovement : MonoBehaviour
                 // Teljes ugrás indítása az ugrás gomb megnyomásakor
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
             }
-            else if (context.performed)
+            else if (context.canceled)
             {
                 //Változó magasságú ugrás: ha korábban elengedjük a gombot, csökkentjük a felfelé ívelõ sebességet
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
