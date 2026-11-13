@@ -1,0 +1,1978 @@
+fileFormatVersion: 2
+guid: 74ce87e92933e6b47b08cef7383d2717
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7076580790877601256
+    second: Muscle_knight_animation_prototype_01_0
+  - first:
+      213: 1025685006684656964
+    second: Muscle_knight_animation_prototype_01_1
+  - first:
+      213: 8275880461115488778
+    second: Muscle_knight_animation_prototype_01_2
+  - first:
+      213: -2188659398229653004
+    second: Muscle_knight_animation_prototype_01_3
+  - first:
+      213: -5047711446188080181
+    second: Muscle_knight_animation_prototype_01_4
+  - first:
+      213: -5276310038624699403
+    second: Muscle_knight_animation_prototype_01_5
+  - first:
+      213: 5007593660672918354
+    second: Muscle_knight_animation_prototype_01_6
+  - first:
+      213: -1938754029957044266
+    second: Muscle_knight_animation_prototype_01_7
+  - first:
+      213: -3058254519305041325
+    second: Muscle_knight_animation_prototype_01_8
+  - first:
+      213: 6329208346164013540
+    second: Muscle_knight_animation_prototype_01_9
+  - first:
+      213: -2427865789284607425
+    second: Muscle_knight_animation_prototype_01_10
+  - first:
+      213: 6190933678747010097
+    second: Muscle_knight_animation_prototype_01_11
+  - first:
+      213: -8190490363944562530
+    second: Muscle_knight_animation_prototype_01_12
+  - first:
+      213: 3303568058702968077
+    second: Muscle_knight_animation_prototype_01_13
+  - first:
+      213: -4368586462978842675
+    second: Muscle_knight_animation_prototype_01_14
+  - first:
+      213: 3265028408927367255
+    second: Muscle_knight_animation_prototype_01_15
+  - first:
+      213: -5948337428071864616
+    second: Muscle_knight_animation_prototype_01_16
+  - first:
+      213: -671755222123687368
+    second: Muscle_knight_animation_prototype_01_17
+  - first:
+      213: 6349865981383010154
+    second: Muscle_knight_animation_prototype_01_18
+  - first:
+      213: -746883025770155215
+    second: Muscle_knight_animation_prototype_01_19
+  - first:
+      213: 1375212673343057428
+    second: Muscle_knight_animation_prototype_01_20
+  - first:
+      213: -8611533187394940494
+    second: Muscle_knight_animation_prototype_01_21
+  - first:
+      213: -505425883929486460
+    second: Muscle_knight_animation_prototype_01_22
+  - first:
+      213: -5041069533411208829
+    second: Muscle_knight_animation_prototype_01_23
+  - first:
+      213: 7099688096165257814
+    second: Muscle_knight_animation_prototype_01_24
+  - first:
+      213: 6871538183086952000
+    second: Muscle_knight_animation_prototype_01_25
+  - first:
+      213: -8165902065541449281
+    second: Muscle_knight_animation_prototype_01_26
+  - first:
+      213: -1776019289087108797
+    second: Muscle_knight_animation_prototype_01_27
+  - first:
+      213: -5350883976720555037
+    second: Muscle_knight_animation_prototype_01_28
+  - first:
+      213: -3158840419539135312
+    second: Muscle_knight_animation_prototype_01_29
+  - first:
+      213: -4355852175261896223
+    second: Muscle_knight_animation_prototype_01_30
+  - first:
+      213: -4340931965789975700
+    second: Muscle_knight_animation_prototype_01_31
+  - first:
+      213: 6463767958294751536
+    second: Muscle_knight_animation_prototype_01_32
+  - first:
+      213: 6505671439457350213
+    second: Muscle_knight_animation_prototype_01_33
+  - first:
+      213: 7918146466255007116
+    second: Muscle_knight_animation_prototype_01_34
+  - first:
+      213: 4873215673668554205
+    second: Muscle_knight_animation_prototype_01_35
+  - first:
+      213: -6758092076977240765
+    second: Muscle_knight_animation_prototype_01_36
+  - first:
+      213: 3038264991656349029
+    second: Muscle_knight_animation_prototype_01_37
+  - first:
+      213: 6897035077034946908
+    second: Muscle_knight_animation_prototype_01_38
+  - first:
+      213: 5729057032036222874
+    second: Muscle_knight_animation_prototype_01_39
+  - first:
+      213: -1559369075654545986
+    second: Muscle_knight_animation_prototype_01_40
+  - first:
+      213: -5219782692762511833
+    second: Muscle_knight_animation_prototype_01_41
+  - first:
+      213: -5317847305574339258
+    second: Muscle_knight_animation_prototype_01_42
+  - first:
+      213: 7646315598139583289
+    second: Muscle_knight_animation_prototype_01_43
+  - first:
+      213: -3199507404527543190
+    second: Muscle_knight_animation_prototype_01_44
+  - first:
+      213: 3326630420175259459
+    second: Muscle_knight_animation_prototype_01_45
+  - first:
+      213: 7539232739832098588
+    second: Muscle_knight_animation_prototype_01_46
+  - first:
+      213: -7503284100253550742
+    second: Muscle_knight_animation_prototype_01_47
+  - first:
+      213: -2627252982161680659
+    second: Muscle_knight_animation_prototype_01_48
+  - first:
+      213: -3347805089294433940
+    second: Muscle_knight_animation_prototype_01_49
+  - first:
+      213: -4720524267111381929
+    second: Muscle_knight_animation_prototype_01_50
+  - first:
+      213: 6455993384278964365
+    second: Muscle_knight_animation_prototype_01_51
+  - first:
+      213: -8511193769965747237
+    second: Muscle_knight_animation_prototype_01_52
+  - first:
+      213: -4126924373333528345
+    second: Muscle_knight_animation_prototype_01_53
+  - first:
+      213: -4826041100194038902
+    second: Muscle_knight_animation_prototype_01_54
+  - first:
+      213: 3909052078091264146
+    second: Muscle_knight_animation_prototype_01_55
+  - first:
+      213: -8390212702287497849
+    second: Muscle_knight_animation_prototype_01_56
+  - first:
+      213: -6411652923418367718
+    second: Muscle_knight_animation_prototype_01_57
+  - first:
+      213: 5894977224977097837
+    second: Muscle_knight_animation_prototype_01_58
+  - first:
+      213: -6402040194286059300
+    second: Muscle_knight_animation_prototype_01_59
+  - first:
+      213: 9070123202612483778
+    second: Muscle_knight_animation_prototype_01_60
+  - first:
+      213: 5584495817732947860
+    second: Muscle_knight_animation_prototype_01_61
+  - first:
+      213: 4756270656545925709
+    second: Muscle_knight_animation_prototype_01_62
+  - first:
+      213: 6856384117291295826
+    second: Muscle_knight_animation_prototype_01_63
+  - first:
+      213: -3394804640305547481
+    second: Muscle_knight_animation_prototype_01_64
+  - first:
+      213: -7451639062846292151
+    second: Muscle_knight_animation_prototype_01_65
+  - first:
+      213: -254587974483348455
+    second: Muscle_knight_animation_prototype_01_66
+  - first:
+      213: -946483147032022628
+    second: Muscle_knight_animation_prototype_01_67
+  - first:
+      213: -2822082038187321803
+    second: Muscle_knight_animation_prototype_01_68
+  - first:
+      213: -8985283776304084314
+    second: Muscle_knight_animation_prototype_01_69
+  - first:
+      213: 2375489027909739948
+    second: Muscle_knight_animation_prototype_01_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 227
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edbc986cb0153260800000000000000
+      internalID: 7076580790877601256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 269
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44512ea4417fb3e00800000000000000
+      internalID: 1025685006684656964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 227
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a72609e65d9d270800000000000000
+      internalID: 8275880461115488778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f983329fd150a1e0800000000000000
+      internalID: -2188659398229653004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 235
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc349410f2de2f9b0800000000000000
+      internalID: -5047711446188080181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 272
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb72f699f7c6c6b0800000000000000
+      internalID: -5276310038624699403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 227
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25348eb27eb8e7540800000000000000
+      internalID: 5007593660672918354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 271
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ad815b792815e0800000000000000
+      internalID: -1938754029957044266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 226
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a0710d7b5ee85d0800000000000000
+      internalID: -3058254519305041325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 269
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e92b8e057dd5d750800000000000000
+      internalID: 6329208346164013540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 226
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a1e539dec7e4ed0800000000000000
+      internalID: -2427865789284607425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 270
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c7bd316d9ae550800000000000000
+      internalID: 6190933678747010097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 234
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9013d8b868855e80800000000000000
+      internalID: -8190490363944562530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_13
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 272
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05315675a1a8dd20800000000000000
+      internalID: 3303568058702968077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 271
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfd097f1c9af53c0800000000000000
+      internalID: -4368586462978842675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 256
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750bcaff906bf4d20800000000000000
+      internalID: 3265028408927367255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 228
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6ad93ff92437da0800000000000000
+      internalID: -5948337428071864616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 151
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832dd414f227da6f0800000000000000
+      internalID: -671755222123687368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 183
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67ebaf87714f1850800000000000000
+      internalID: 6349865981383010154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 151
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133733068d982a5f0800000000000000
+      internalID: -746883025770155215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 186
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e6a35e3acb51310800000000000000
+      internalID: 1375212673343057428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 151
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b156d12130bd7880800000000000000
+      internalID: -8611533187394940494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 151
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b581026dd5cf8f0800000000000000
+      internalID: -505425883929486460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 185
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3811bf4d7f58a0ab0800000000000000
+      internalID: -5041069533411208829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 151
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652effb25b8278260800000000000000
+      internalID: 7099688096165257814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 151
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e4e6f029b9c5f50800000000000000
+      internalID: 6871538183086952000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_26
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 151
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f5c01653ecae80800000000000000
+      internalID: -8165902065541449281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 151
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34998b7cddf4a57e0800000000000000
+      internalID: -1776019289087108797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_28
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 151
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3ed359f57ddb5b0800000000000000
+      internalID: -5350883976720555037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_29
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 187
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4593bef5b8924d0800000000000000
+      internalID: -3158840419539135312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_30
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 151
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1f66f5687ec83c0800000000000000
+      internalID: -4355852175261896223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_31
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 183
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b43f85069e1c3c0800000000000000
+      internalID: -4340931965789975700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 175
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039e5b826bae3b950800000000000000
+      internalID: 6463767958294751536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 175
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5427246a4b9c84a50800000000000000
+      internalID: 6505671439457350213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 100
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8de4a84248e2ed60800000000000000
+      internalID: 7918146466255007116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_35
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 100
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd41e6f5d321a340800000000000000
+      internalID: 4873215673668554205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 85
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345c368df0f6632a0800000000000000
+      internalID: -6758092076977240765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 84
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d8e2999e51a2a20800000000000000
+      internalID: 3038264991656349029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 86
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51b31a4cd037bf50800000000000000
+      internalID: 6897035077034946908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_39
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 86
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97097c4403b18f40800000000000000
+      internalID: 5729057032036222874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_40
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 87
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebda1eb66120c5ae0800000000000000
+      internalID: -1559369075654545986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_41
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 81
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7269829eb4b9f87b0800000000000000
+      internalID: -5219782692762511833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_42
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 80
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d297dfc063336b0800000000000000
+      internalID: -5317847305574339258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_43
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 78
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b63ab468b2d1a60800000000000000
+      internalID: 7646315598139583289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_44
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 129
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c57e0a7f01993d0800000000000000
+      internalID: -3199507404527543190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3470e8dedb09a2e20800000000000000
+      internalID: 3326630420175259459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 113
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fefa87b3cb0a860800000000000000
+      internalID: 7539232739832098588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 112
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67fc8b6ddafed790800000000000000
+      internalID: -7503284100253550742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_48
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 115
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6da2f155f1a8bd0800000000000000
+      internalID: -2627252982161680659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c614c5b32053a81d0800000000000000
+      internalID: -3347805089294433940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754073180345d7eb0800000000000000
+      internalID: -4720524267111381929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 84
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88383617cb489950800000000000000
+      internalID: 6455993384278964365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 78
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd38ca64c5a22e980800000000000000
+      internalID: -8511193769965747237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 13
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0bd88d5283ab6c0800000000000000
+      internalID: -4126924373333528345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bbf775035760db0800000000000000
+      internalID: -4826041100194038902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e12b672ebf3630800000000000000
+      internalID: 3909052078091264146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_56
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785fe22200aff8b80800000000000000
+      internalID: -8390212702287497849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19ad84f2ab3507a0800000000000000
+      internalID: -6411652923418367718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6427cd9d8a2fc150800000000000000
+      internalID: 5894977224977097837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_59
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd08ecddc526727a0800000000000000
+      internalID: -6402040194286059300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_60
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 17
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6deb84ffc8fdd70800000000000000
+      internalID: 9070123202612483778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 66
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f70a9bb5d108d40800000000000000
+      internalID: 5584495817732947860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_62
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aa80b56faa10240800000000000000
+      internalID: 4756270656545925709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_63
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 16
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25427ca2705c62f50800000000000000
+      internalID: 6856384117291295826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_64
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 14
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7277db48a2b33e0d0800000000000000
+      internalID: -3394804640305547481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_65
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 13
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f3f98b0c5769890800000000000000
+      internalID: -7451639062846292151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 14
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91475d80695877cf0800000000000000
+      internalID: -254587974483348455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91334ba79a6dd2f0800000000000000
+      internalID: -946483147032022628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 15
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53695da9653f5d8d0800000000000000
+      internalID: -2822082038187321803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_69
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa8053f20cdd4380800000000000000
+      internalID: -8985283776304084314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muscle_knight_animation_prototype_01_70
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 16
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5e56c5fae67f020800000000000000
+      internalID: 2375489027909739948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Muscle_knight_animation_prototype_01_0: 7076580790877601256
+      Muscle_knight_animation_prototype_01_1: 1025685006684656964
+      Muscle_knight_animation_prototype_01_10: -2427865789284607425
+      Muscle_knight_animation_prototype_01_11: 6190933678747010097
+      Muscle_knight_animation_prototype_01_12: -8190490363944562530
+      Muscle_knight_animation_prototype_01_13: 3303568058702968077
+      Muscle_knight_animation_prototype_01_14: -4368586462978842675
+      Muscle_knight_animation_prototype_01_15: 3265028408927367255
+      Muscle_knight_animation_prototype_01_16: -5948337428071864616
+      Muscle_knight_animation_prototype_01_17: -671755222123687368
+      Muscle_knight_animation_prototype_01_18: 6349865981383010154
+      Muscle_knight_animation_prototype_01_19: -746883025770155215
+      Muscle_knight_animation_prototype_01_2: 8275880461115488778
+      Muscle_knight_animation_prototype_01_20: 1375212673343057428
+      Muscle_knight_animation_prototype_01_21: -8611533187394940494
+      Muscle_knight_animation_prototype_01_22: -505425883929486460
+      Muscle_knight_animation_prototype_01_23: -5041069533411208829
+      Muscle_knight_animation_prototype_01_24: 7099688096165257814
+      Muscle_knight_animation_prototype_01_25: 6871538183086952000
+      Muscle_knight_animation_prototype_01_26: -8165902065541449281
+      Muscle_knight_animation_prototype_01_27: -1776019289087108797
+      Muscle_knight_animation_prototype_01_28: -5350883976720555037
+      Muscle_knight_animation_prototype_01_29: -3158840419539135312
+      Muscle_knight_animation_prototype_01_3: -2188659398229653004
+      Muscle_knight_animation_prototype_01_30: -4355852175261896223
+      Muscle_knight_animation_prototype_01_31: -4340931965789975700
+      Muscle_knight_animation_prototype_01_32: 6463767958294751536
+      Muscle_knight_animation_prototype_01_33: 6505671439457350213
+      Muscle_knight_animation_prototype_01_34: 7918146466255007116
+      Muscle_knight_animation_prototype_01_35: 4873215673668554205
+      Muscle_knight_animation_prototype_01_36: -6758092076977240765
+      Muscle_knight_animation_prototype_01_37: 3038264991656349029
+      Muscle_knight_animation_prototype_01_38: 6897035077034946908
+      Muscle_knight_animation_prototype_01_39: 5729057032036222874
+      Muscle_knight_animation_prototype_01_4: -5047711446188080181
+      Muscle_knight_animation_prototype_01_40: -1559369075654545986
+      Muscle_knight_animation_prototype_01_41: -5219782692762511833
+      Muscle_knight_animation_prototype_01_42: -5317847305574339258
+      Muscle_knight_animation_prototype_01_43: 7646315598139583289
+      Muscle_knight_animation_prototype_01_44: -3199507404527543190
+      Muscle_knight_animation_prototype_01_45: 3326630420175259459
+      Muscle_knight_animation_prototype_01_46: 7539232739832098588
+      Muscle_knight_animation_prototype_01_47: -7503284100253550742
+      Muscle_knight_animation_prototype_01_48: -2627252982161680659
+      Muscle_knight_animation_prototype_01_49: -3347805089294433940
+      Muscle_knight_animation_prototype_01_5: -5276310038624699403
+      Muscle_knight_animation_prototype_01_50: -4720524267111381929
+      Muscle_knight_animation_prototype_01_51: 6455993384278964365
+      Muscle_knight_animation_prototype_01_52: -8511193769965747237
+      Muscle_knight_animation_prototype_01_53: -4126924373333528345
+      Muscle_knight_animation_prototype_01_54: -4826041100194038902
+      Muscle_knight_animation_prototype_01_55: 3909052078091264146
+      Muscle_knight_animation_prototype_01_56: -8390212702287497849
+      Muscle_knight_animation_prototype_01_57: -6411652923418367718
+      Muscle_knight_animation_prototype_01_58: 5894977224977097837
+      Muscle_knight_animation_prototype_01_59: -6402040194286059300
+      Muscle_knight_animation_prototype_01_6: 5007593660672918354
+      Muscle_knight_animation_prototype_01_60: 9070123202612483778
+      Muscle_knight_animation_prototype_01_61: 5584495817732947860
+      Muscle_knight_animation_prototype_01_62: 4756270656545925709
+      Muscle_knight_animation_prototype_01_63: 6856384117291295826
+      Muscle_knight_animation_prototype_01_64: -3394804640305547481
+      Muscle_knight_animation_prototype_01_65: -7451639062846292151
+      Muscle_knight_animation_prototype_01_66: -254587974483348455
+      Muscle_knight_animation_prototype_01_67: -946483147032022628
+      Muscle_knight_animation_prototype_01_68: -2822082038187321803
+      Muscle_knight_animation_prototype_01_69: -8985283776304084314
+      Muscle_knight_animation_prototype_01_7: -1938754029957044266
+      Muscle_knight_animation_prototype_01_70: 2375489027909739948
+      Muscle_knight_animation_prototype_01_8: -3058254519305041325
+      Muscle_knight_animation_prototype_01_9: 6329208346164013540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
